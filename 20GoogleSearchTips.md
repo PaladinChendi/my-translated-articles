@@ -17,6 +17,6 @@ if you need images, use the Image tab. If you are looking for a recent news arti
 It’s rudimentary and most people use the tabs already. If you are not, then it’s highly recommended to get associated with them. They can cut search times dramatically if utilized properly.
 
 ## 1、使用标签页
-第一个技巧时候使用谷歌搜索的标签页。在每一次搜索的顶部是一些标签.通常你会看到网页，图片，新闻等等。使用这些标签，用来帮你定义你需要的那一类搜索。
-如果你需要搜图片，使用图片标签。如果你要找一些最近的新闻，使用新闻标签。
-这个是最基本的用法，大多数人经常这么用。如果你不是，强烈推荐使用他们。如果使用合理，可以急剧的减少搜索次数。
+第一个技巧是使用谷歌搜索的标签页。在每一次搜索的顶部是一些标签.通常你会看到网页，图片，新闻等等。使用这些标签，用来帮你定义你需要的那一类搜索。<br>
+如果你需要搜图片，使用图片标签。如果你要找一些最近的新闻，使用新闻标签。<br>
+这个是最基本的用法，大多数人经常这么用。如果你不是，强烈推荐使用他们。如果使用合理，可以急剧的减少搜索次数。<br>
