@@ -42,4 +42,4 @@ This tells the search engine to search for mustangs but to remove any results th
 ## 3、使用连字符来排除一些词
 有时候你发现你搜索的单词有不同的意思。例如Mustang（野马）这个单词，当你搜索野马的时候，你会得到福特制造的汽车或者是马这两个结果。如果你想去掉一个，使用连字符来告诉搜索引擎要忽略掉另外一个。例如：<br>
 * Mustang -cars <br>
-这会告诉搜索引擎搜索要搜索mustangs但是排除掉包含单词“car“的结果。当你寻找某一类信息并且不需要另外一些信息的时候，这会极其有用。<br>
+这会告诉搜索引擎搜索要搜索mustangs但是排除掉包含单词“car“的结果。当你寻找某一类信息并且不需要另外一些信息的时候，这个办法会极其有用。<br>
