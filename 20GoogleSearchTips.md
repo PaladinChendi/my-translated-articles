@@ -32,3 +32,11 @@ However, if you search “Puppy Dog Sweaters”, it will search for that phrase 
 当我们搜索一些具体的东西，尝试使用双引号来减少谷歌搜索猜测。当你把你的搜索词放入到双引号里面，这会告诉搜索引擎要搜索匹配全部的词组。<br>
 例如，如果你搜索Puppy Dog Sweaters，引擎将搜索包含这三个字的任意顺序的内容。<br>
 然而，如果你搜索“Puppy Dog Sweaters”，引擎会精确的搜索你输入的词组。这个会帮我们找到那些如果没有被正确的选择出来，就会埋藏在其他内容里的特定的信息。<br>
+
+## 3. Use a hyphen to exclude words
+Sometimes you may find yourself searching for a word with an ambiguous meaning. An example is Mustang. When you Google search for Mustang, you may get results for both the car made by Ford or the horse. If you want to cut one out, use the hyphen to tell the engine to ignore content with one of the other. See the example below.
+
+* Mustang -cars
+This tells the search engine to search for mustangs but to remove any results that have the word “car” in it. It can be wildly helpful when finding information about something without getting information about something else.
+
+## 3、使用连字符来排除一些词
