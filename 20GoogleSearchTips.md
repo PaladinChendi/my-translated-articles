@@ -41,7 +41,20 @@ Sometimes you may find yourself searching for a word with an ambiguous meaning. 
 This tells the search engine to search for mustangs but to remove any results that have the word “car” in it. It can be wildly helpful when finding information about something without getting information about something else.
 
 ## 3、使用连字符来排除一些词
-有时候你发现你搜索的单词有不同的意思。例如Mustang（野马）这个单词，当你搜索野马的时候，你会得到福特制造的汽车或者是马这两个结果。如果你想去掉一个，使用连字符来告诉搜索引擎要忽略掉另外一个。例如：<br>
-* Mustang -cars *
+有时候你发现你搜索的单词有不同的意思。例如Mustang（野马）这个单词，当你搜索Mustang（野马）的时候，你会得到福特制造的汽车或者是马这两个结果。如果你想去掉一个，使用连字符来告诉搜索引擎要忽略掉另外一个。例如：<br>
+* Mustang -cars
 
 这会告诉搜索引擎搜索要搜索mustangs但是排除掉包含单词“car“的结果。当你寻找某一类信息并且不需要另外一些信息的时候，这个办法会极其有用。<br>
+
+## 4. Use a colon to search specific sites
+There may be an instance where you need to Google search for articles or content on a certain website. The syntax is very simple and we’ll show you below.
+
+* Sidney Crosby site:nhl.com
+
+This will search for all content about famous hockey player Sidney Crosby, but only on NHL.com. All other search results will be removed. If you need to find specific content on a particular site, this is the shortcut you can use.
+
+## 4、使用冒号来搜索指定站点
+有一个例子是当你需要在一个确定的网站搜索文章或者内容，冒号就会非常简单的实现这个功能，如下：
+* Sidney Crosby site:nhl.com
+
+这将会搜索关于著名曲棍球选手Sidney Crosby的所有内容，但仅仅是在NHL.com这个网站上。所有其他的搜索结果将会被剔除掉。如果你需要找到一个指定网站的指定内容，这是一个你可以用的快捷方式。
