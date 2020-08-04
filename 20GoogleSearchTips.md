@@ -58,3 +58,25 @@ This will search for all content about famous hockey player Sidney Crosby, but o
 * Sidney Crosby site:nhl.com
 
 这将会搜索关于著名曲棍球选手Sidney Crosby的所有内容，但仅仅是在NHL.com这个网站上。所有其他的搜索结果将会被剔除掉。如果你需要找到一个指定网站的指定内容，这是一个你可以用的快捷方式。
+
+## 5. Find a page that links to another page
+This Google search tip is a little obscure. Instead of searching for a specific page, you’re searching for a page that links to a specific page.
+
+Think about it this way. If you want to see who cited a New York Times article on their site, you would use this trick to find all the sites that link to it. The syntax is below:
+
+*link:nytimes.com
+
+That will return all pages that link to the New York Times official website. The URL on the right side can be practically anything.
+
+Be aware, though, that the more specific it is, the fewer results you’ll get. We know not a lot of people will likely use this Google search trick, but it could be very useful for some.
+
+## 5、查找一个链接到另一个页面的页面
+这个搜索技巧很少人知道，你要搜索一个链接到另一个指定页面的页面，而不是直接搜索指定页面。
+
+这样想，如果你想看谁在他们的网站引用了纽约时报的文章，你可以使用这个技巧找到所有链接到纽约时报的网站。写法如下：
+
+*link:nytimes.com
+
+这样会返回所有链接到纽约时报官网的网站，右侧的URL可以是任何网站。
+
+然而需要注意，越具体得到的结果也就会越少。大多数人不太喜欢用这个搜索技巧，但是对于一些人可能非常有用。
