@@ -87,3 +87,24 @@ Be aware, though, that the more specific it is, the fewer results you’ll get. 
 这样会返回所有链接到纽约时报官网的网站，右侧的URL可以是任何网站。
 
 然而需要注意，越具体得到的结果也就会越少。大多数人不太喜欢用这个搜索技巧，但是对于一些人可能非常有用。
+
+## 6. Use the asterisk wildcard
+The asterisk wildcard is one of the most useful ones on the list. Here’s how it works.
+
+When you use an asterisk in a search term on Google search, it will leave a placeholder that may be automatically filled by the search engine later. This is a brilliant way to find song lyrics if you don’t know all the words. Let’s look at the syntax:
+
+“Come * right now * me”
+To you or me, that may look like nonsense. However, Google search will search for that phrase knowing that the asterisks can be any word.
+
+More often than not, you’ll find they are lyrics to The Beatles song “Come Together” and that’s what the search will tell you.
+
+## 6、使用星号通配符
+星号通配符是这个清单里最有用的技巧之一。接下来看看它如何使用。
+
+在用谷歌搜索的时候，当你在你的搜索关键词里加了星号之后，它就会成为一个搜索引擎在之后会自动填充内容的占位符。如果你不知道歌词里的全部的单词，这是一个查找歌词的非常好的办法。让我们来看一下怎么写：
+
+“Come * right now * me”
+
+对于你和我来说，那看上去毫无意义。然而，谷歌搜索将会搜该词组，并知道星号可以是任何单词。
+
+很多时候，你会找到这是Beatles乐队的歌曲“Come Together“，那就是谷歌要告诉你的结果。
