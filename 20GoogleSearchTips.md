@@ -125,4 +125,4 @@ If you search that above, you won’t find a link to Amazon. Instead, you’ll f
 
 * related:amazon.com
 
-如果你搜索如上的内容，你不会找到一个amazon的链接。取而代之，你会找到一个像amazon一样的网上商店。像Barnes & Noble, Best Buy或者呵呵其他的线上售卖实体商品的网站。它是一个帮你找到你新的网站的非常给力的搜索工具。
+如果你搜索如上的内容，你不会找到一个amazon的链接。取而代之，你会找到一个像amazon一样的网上商店。像Barnes & Noble， Best Buy或者其他的线上售卖实体商品的网站。它是一个帮你找到你新的网站的非常给力的搜索工具。
