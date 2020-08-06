@@ -108,3 +108,21 @@ More often than not, you’ll find they are lyrics to The Beatles song “Come T
 对于你和我来说，那看上去毫无意义。然而，谷歌搜索将会搜该词组，并知道星号可以是任何单词。
 
 很多时候，你会找到这是Beatles乐队的歌曲“Come Together“，那就是谷歌要告诉你的结果。
+
+## 7. Find sites that are similar to other sites
+This is a unique one that could be used by practically everyone if they knew it existed.
+
+Let’s say you have a favorite website. It can be anything. However, that website is getting a little bit boring and you want to find other websites like it. You would use this trick. Below is the syntax:
+
+* related:amazon.com
+
+If you search that above, you won’t find a link to Amazon. Instead, you’ll find links to online stores like Amazon. Sites like Barnes & Noble, Best Buy, and others that sell physical items online. It’s a powerful Google search tool that can help you find new sites to browse.
+
+## 7、找和另一个网站相似的网站
+这是一个如果人们知道就几乎会被每一个人使用的独特的技巧。
+
+假如你有一个喜欢的网站，可能是任何的网站。然而，这个网站有点让人感觉烦，你想找一个像它一样的网站。你可以使用这个办法，写法如下：
+
+* related:amazon.com
+
+如果你搜索如上的内容，你不会找到一个amazon的链接。取而代之，你会找到一个像amazon一样的网上商店。像Barnes & Noble, Best Buy或者呵呵其他的线上售卖实体商品的网站。它是一个帮你找到你新的网站的非常给力的搜索工具。
