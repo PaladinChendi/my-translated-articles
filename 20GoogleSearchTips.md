@@ -126,3 +126,32 @@ If you search that above, you won’t find a link to Amazon. Instead, you’ll f
 * related:amazon.com
 
 如果你搜索如上的内容，你不会找到一个amazon的链接。取而代之，你会找到一个像amazon一样的网上商店。像Barnes & Noble， Best Buy或者其他的线上售卖实体商品的网站。它是一个帮你找到你新的网站的非常给力的搜索工具。
+
+## 8. Use Google search to do math
+Google search can actually do math for you. This is a rather complex one to describe because it can be used in so many ways. You can ask it basic questions or some more difficult ones.
+
+It is important to note that it won’t solve all math problems, but it will solve a good number of them. Here are a couple of examples of the syntax:
+
+* 8 * 5 + 5
+* Planck’s Consant
+
+If you search the first one, it’ll return 45. It will also show a calculator that you can use to find answers to more questions.
+
+This is handy if you need to do some quick math but don’t want to do it in your head. If you search the second term, it will return the number value of Planck’s Constant.
+
+So it can do math, but it can also help you solve math problems by showing values for known mathematical terms.
+
+## 8、用谷歌搜索来做数学运算
+
+谷歌搜索实际上能帮你做数学运算。这是一个相当复杂的描述，因为他可以用很多不同的方式。你可以问一些基础问题或者更有难度的问题。
+
+重要的是要知道它不能解决所有数学问题，但是它会解决很多。下面是两个例子：
+
+* 8 * 5 + 5
+* Planck’s Consant
+
+如果你搜索第一个，它会返回45。它也会显示一个计算机，你可以用来找到更多问题的答案。
+
+如果你需要做一些快速的数学计算，但是你又不想动脑去计算的时候很好用。如果你搜索第二项，就会返回普朗克常数的数值。
+
+因而谷歌可以做数学运算，但它也能通过显示一些常见的数学术语来帮你解决数学问题。
