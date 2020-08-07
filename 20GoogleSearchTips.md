@@ -154,4 +154,29 @@ So it can do math, but it can also help you solve math problems by showing value
 
 如果你需要做一些快速的数学计算，但是你又不想动脑去计算的时候很好用。如果你搜索第二项，就会返回普朗克常数的数值。
 
-因而谷歌可以做数学运算，但它也能通过显示一些常见的数学术语来帮你解决数学问题。
+所以谷歌可以做数学运算，但它也能通过显示一些常见的数学术语来帮你解决数学问题。
+
+## 9. Search for multiple words at once
+Google search is flexible. It knows you may not find what you want by searching only a single word or phrase. Thus, it lets you search for multiples.
+
+By using this trick, you can search for one word or phrase along with a second word or phrase. This can help narrow down your search to help you find exactly what you’re looking for. Here is the syntax:
+
+* “Best ways to prepare for a job interview” OR “How to prepare for a job interview”
+
+By searching that, you will search both phrases. Remember the quotes tip above? It’s being used here as well. In this instance, these two exact phrases will be searched. It can be done by word too, like the example below:
+
+* chocolate OR white chocolate
+This will search for pages that have either chocolate or white chocolate!
+
+## 9、搜索多个词
+谷歌搜索非常灵活。它知道你可能通过搜索单个词或者词组找不到你想要的，因此，它允许你搜索多个词或词组。
+
+通过使用这个技巧，你可以把两个词或者词组放在一起搜索。这个可以帮你缩小搜索范围，更精确的找到你要的信息。用法如下：
+
+* “Best ways to prepare for a job interview” OR “How to prepare for a job interview”
+
+通过这样搜索的话，这两个词组都会被搜索。还记得上面提到的引号的作用吗？它被很好的用在了这里。在这个例子里，这两个确切的词组将会被搜索。通过单词搜索也是同样，比如下面的例子：
+
+* chocolate OR white chocolate
+
+这会搜索那些或者包含巧克力，或者包含白巧克力的网页！
