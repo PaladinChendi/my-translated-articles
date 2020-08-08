@@ -180,3 +180,27 @@ This will search for pages that have either chocolate or white chocolate!
 * chocolate OR white chocolate
 
 这会搜索那些或者包含巧克力，或者包含白巧克力的网页！
+
+## 10. Search a range of numbers
+Searching for a range of numbers is another tip we don’t anticipate a lot of people using. The people that do use it, though, will probably use it quite a bit.
+
+People interested in money or statistics will find this tip particularly useful. Essentially, you use two dots and a number to let Google search know you’re looking for a specific range of numbers. Like the syntax below:
+
+* What teams have won the Stanley Cup ..2004
+* 41..43
+
+In the first instance, the search will toss back the team that won the Stanley Cup in 2004. The two dots with only one number will tell the search that you don’t need anything before or after 2004. This can help narrow down searches to a specific number to improve search results.
+
+In the second, Google will search for the numbers 41, 42, and 43. It is obscure, but wildly useful if you happen to need to search for numbers like this.
+
+## 10、搜索一个数字范围
+搜索一个数字范围是另外一个大多数人不会用的技巧。如果我们使用这个技巧的话，可能就会用的次数越来越多。
+
+人们对于钱或者统计感兴趣的话将会发现这个技巧非常有用。大体上，使用两个点和一个数字来让谷歌知道你正在搜索一个指定的数字范围。用法如下：
+
+* What teams have won the Stanley Cup ..2004
+* 41..43
+
+第一个例子，搜索引擎将会把赢得2004年Stanley Cup的球队返回来。两个点和一个数字将会告诉搜索引擎你不需要2004年之前或者之后的任何信息。这会帮助我们通过一个指定的数字来缩小搜索范围改善搜索结果。
+
+第二个例子，谷歌将会搜索数字41、42和43。它知道的人很少，但是如果你突然需要像这样搜索东西的时候会非常有用。
