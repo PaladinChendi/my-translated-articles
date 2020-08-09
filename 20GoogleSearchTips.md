@@ -204,3 +204,18 @@ In the second, Google will search for the numbers 41, 42, and 43. It is obscure,
 第一个例子，搜索引擎将会把赢得2004年Stanley Cup的球队返回来。两个点和一个数字将会告诉搜索引擎你不需要2004年之前或者之后的任何信息。这会帮助我们通过一个指定的数字来缩小搜索范围改善搜索结果。
 
 第二个例子，谷歌将会搜索数字41、42和43。它知道的人很少，但是如果你突然需要像这样搜索东西的时候会非常有用。
+
+## 11. Keep it simple
+Now we’re getting into the general tips. Google search knows how to search for a lot of things. What this means is you don’t need to be too specific. If you need a pizza place nearby, use this to search.
+
+* Pizza places nearby
+
+Google search will grab your location and deliver a variety of results about pizza places that are near you.
+
+## 11、保持简单
+现在我们讨论一个一般的技巧。谷歌知道怎么去搜索许多事情。这意味这你不需要说的太过详细。如果你需要一个附近的披萨店，这样搜索：
+
+* Pizza places nearby
+
+谷歌会获取到你的定位，并且发送在你附近的多种多样的披萨店给你。
+
