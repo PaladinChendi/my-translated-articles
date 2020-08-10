@@ -219,3 +219,28 @@ Google search will grab your location and deliver a variety of results about piz
 
 谷歌会获取到你的定位，并且发送在你附近的多种多样的披萨店给你。
 
+## 12. Gradually add search terms
+There will come a time when Google search doesn’t shovel out the results you expect. In this instance, keeping it simple may not be the best option.
+
+As Google itself suggests, the best method is to start with something simple then gradually get more complicated. See the example below:
+
+* First try: job interviews
+* Second try: prepare for job interviews
+* Third try: how to prepare for a job interview
+This will gradually refine the search to bring you fewer, more targeted terms. The reason you don’t go straight from the first try to the third try is because you may miss what you’re looking for by skipping the second step.
+
+Millions of websites phrase the same information in a number of different ways; using this technique lets you search as many of them as possible to find the best info.
+
+## 12、逐渐的增加搜索关键词
+
+有时候谷歌找不到你期望的结果。在这个情况下，保持简单不是一个最好的选项。
+
+谷歌建议，最好的办法是从一些简单的关键词开始后，逐渐增加到复杂。例子如下：
+
+* 第一次: job interviews
+* 第二次: prepare for job interviews
+* 第三次: how to prepare for a job interview
+
+这将会逐渐的改进搜索带给你更少更精确的结果。你不能直接从第一步跳到第三步的原始时候你可能会丢失第二步可以寻找到的信息。
+
+数以百万计的网站用不同的方式表达相同的信息；使用这额办法你可以搜索尽可能多的信息来找到最佳信息。
