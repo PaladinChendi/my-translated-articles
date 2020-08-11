@@ -244,3 +244,26 @@ Millions of websites phrase the same information in a number of different ways; 
 这将会逐渐的改进搜索带给你更少更精确的结果。你不能直接从第一步跳到第三步的原始时候你可能会丢失第二步可以寻找到的信息。
 
 数以百万计的网站用不同的方式表达相同的信息；使用这额办法你可以搜索尽可能多的信息来找到最佳信息。
+
+## 13. Use words that websites would use
+This is a very important one. When people use Google search to hunt the web, they generally search for things using the same language that they would use for speaking.
+
+Unfortunately, websites don’t say things the way people do; instead, they try to use language that sounds professional. Let’s look at some examples:
+
+* “I have a flat tire” could be replaced by “repair a flat tire.”
+* “My head hurts” could be replaced by “headache relief.”
+
+The list goes on and on. When searching, try to use terminology you would find on a professional website. This will help you get more reliable results.
+
+## 13、使用网站经常用的词来搜索
+这是非常重要的一个技巧。当人们使用谷歌来搜索网站的时候，他们通常会使用他们平时谈话的时候用到的单词来搜索。
+
+不幸的是，网站不会像人们经常做的那样来说事情。相反，网站会使用听起来非常专业的词汇。让我们看几个例子：
+
+* “I have a flat tire” 可以替换成 “repair a flat tire.”
+* “My head hurts” 可以替换成 “headache relief.”
+
+这个清单可以列很长很长。当你搜索的时候，使用专业的词汇你就会找到专业网站。这会帮你获取到更可靠的结果。
+第一个例子，搜索引擎将会把赢得2004年Stanley Cup的球队返回来。两个点和一个数字将会告诉搜索引擎你不需要2004年之前或者之后的任何信息。这会帮助我们通过一个指定的数字来缩小搜索范围改善搜索结果。的
+第一个例子，搜索引擎将会把赢得2004年Stanley Cup的球队返回来。两个点和一个数字将会告诉搜索引擎你不需要2004年之前或者之后的任何信息。这会帮助我们通过一个指定的数字来缩小搜索范围改善搜索结果。
+第一个例子，搜索引擎将会把赢得2004年Stanley Cup的球队返回来。两个点和一个数字将会告诉搜索引擎你不需要2004年之前或者之后的任何信息。这会帮助我们通过一个指定的数字来缩小搜索范围改善搜索结果。
