@@ -264,6 +264,39 @@ The list goes on and on. When searching, try to use terminology you would find o
 * “My head hurts” 可以替换成 “headache relief.”
 
 这个清单可以列很长很长。当你搜索的时候，使用专业的词汇你就会找到专业网站。这会帮你获取到更可靠的结果。
-第一个例子，搜索引擎将会把赢得2004年Stanley Cup的球队返回来。两个点和一个数字将会告诉搜索引擎你不需要2004年之前或者之后的任何信息。这会帮助我们通过一个指定的数字来缩小搜索范围改善搜索结果。的
-第一个例子，搜索引擎将会把赢得2004年Stanley Cup的球队返回来。两个点和一个数字将会告诉搜索引擎你不需要2004年之前或者之后的任何信息。这会帮助我们通过一个指定的数字来缩小搜索范围改善搜索结果。
-第一个例子，搜索引擎将会把赢得2004年Stanley Cup的球队返回来。两个点和一个数字将会告诉搜索引擎你不需要2004年之前或者之后的任何信息。这会帮助我们通过一个指定的数字来缩小搜索范围改善搜索结果。
+
+## 14. Use important words only
+The way Google search works is to take what you search for and match it with keywords in online content.
+
+When you search for too many words, it may limit your results. That means it may actually take you longer to find what you’re looking for. Thus, it is apropos to use only the important words when searching for something. Let’s see an example:
+
+* Don’t use: Where can I find a Chinese restaurant that delivers.
+* Instead try: Chinese restaurants nearby.
+* Or: Chinese restaurants near me.
+Doing this can help Google find what you need without all the clutter. So remember, keep it simple and use important words only.
+
+## 14、仅使用重要的词来搜索
+谷歌工作的方式是把你的搜索词拿来和网上内容里的关键词匹配。
+
+当你搜索太多的词的时候，这将会减少返回的结果。这意味着你会花更长时间才能找到你要找的东西。因此，当你搜索的时候，只使用重要的词这个办法就比较合适。看一个例子：
+
+* 不要使用：我在哪里能找到中餐馆
+* 替换成：附近的中餐馆
+* 或者：我附近的中餐馆
+
+这么做会帮助谷歌找到你需要的，而不是一堆杂乱的信息。所以请记住，搜索词要简单并且只使用重要的词。
+
+## 15. Google search has shortcuts
+A number of commands can be entered to give you instantaneous results.
+
+Like the math example above, Google can immediately give you the information you need that is displayed right at the top of the search results. This can save time and effort so you don’t have to click a bunch of bothersome links.
+
+Here are a few examples of some commands you can enter into Google:
+
+Weather __`*`zip code`*`__ – This will show you the weather in the given zip code. You can also use town and city names instead of area codes, but it may not be as accurate if there are multiple area codes in the city.
+What is *celebrity name* Bacon Number – This is a fun little one that will tell you how many connections any given celebrity has to famed actor Kevin Bacon. The popular joke, Six Degrees of Kevin Bacon, is that no actor is more than 6 connections away from Kevin Bacon. Mark Zuckerberg has a Bacon Number of 3.
+The math example posted above is another one.
+What is the definition of *word* or Define: *word* – This will display the definition of a word.
+Time *place* – This will display the time in whatever place you type in.
+You can check any stock by typing its ticker name into Google. If you search for GOOG, it will check the stock prices for Google.
+These quick commands can take a web search that is usually multiple clicks and condense it into a single search. This is very helpful for information you need repeatedly.
