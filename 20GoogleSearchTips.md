@@ -293,10 +293,10 @@ Like the math example above, Google can immediately give you the information you
 
 Here are a few examples of some commands you can enter into Google:
 
-Weather __`*`zip code`*`__ – This will show you the weather in the given zip code. You can also use town and city names instead of area codes, but it may not be as accurate if there are multiple area codes in the city.
-What is *celebrity name* Bacon Number – This is a fun little one that will tell you how many connections any given celebrity has to famed actor Kevin Bacon. The popular joke, Six Degrees of Kevin Bacon, is that no actor is more than 6 connections away from Kevin Bacon. Mark Zuckerberg has a Bacon Number of 3.
-The math example posted above is another one.
-What is the definition of *word* or Define: *word* – This will display the definition of a word.
-Time *place* – This will display the time in whatever place you type in.
-You can check any stock by typing its ticker name into Google. If you search for GOOG, it will check the stock prices for Google.
+* Weather __`*`zip code`*`__ – This will show you the weather in the given zip code. You can also use town and city names instead of area codes, but it may not be as accurate if there are multiple area codes in the city.
+* What is __\*celebrity name\*__ Bacon Number – This is a fun little one that will tell you how many connections any given celebrity has to famed actor Kevin Bacon. The popular joke, Six Degrees of Kevin Bacon, is that no actor is more than 6 connections away from Kevin Bacon. Mark Zuckerberg has a Bacon Number of 3.
+* The math example posted above is another one.
+* What is the definition of *word* or Define: *word* – This will display the definition of a word.
+* Time *place* – This will display the time in whatever place you type in.
+* You can check __any stock by typing its ticker name__ into Google. If you search for GOOG, it will check the stock prices for Google.
 These quick commands can take a web search that is usually multiple clicks and condense it into a single search. This is very helpful for information you need repeatedly.
