@@ -293,10 +293,25 @@ Like the math example above, Google can immediately give you the information you
 
 Here are a few examples of some commands you can enter into Google:
 
-* Weather __`*`zip code`*`__ – This will show you the weather in the given zip code. You can also use town and city names instead of area codes, but it may not be as accurate if there are multiple area codes in the city.
-* What is __\*celebrity name\*__ Bacon Number – This is a fun little one that will tell you how many connections any given celebrity has to famed actor Kevin Bacon. The popular joke, Six Degrees of Kevin Bacon, is that no actor is more than 6 connections away from Kevin Bacon. Mark Zuckerberg has a Bacon Number of 3.
-* The math example posted above is another one.
-* What is the definition of *word* or Define: *word* – This will display the definition of a word.
-* Time *place* – This will display the time in whatever place you type in.
-* You can check __any stock by typing its ticker name__ into Google. If you search for GOOG, it will check the stock prices for Google.
+* Weather __\*zip code\*__ – This will show you the weather in the given zip code. You can also use town and city names instead of area codes, but it may not be as accurate if there are multiple area codes in the city.
+* __What is \*celebrity name\* Bacon Number__ – This is a fun little one that will tell you how many connections any given celebrity has to famed actor Kevin Bacon. The popular joke, Six Degrees of Kevin Bacon, is that no actor is more than 6 connections away from Kevin Bacon. Mark Zuckerberg has a Bacon Number of 3.
+* __The math example__ posted above is another one.
+* __What is the definition of \*word\* or Define: \*word\*__ – This will display the definition of a word.
+* __Time \*place\*__ – This will display the time in whatever place you type in.
+* You can __check any stock by typing its ticker name__ into Google. If you search for GOOG, it will check the stock prices for Google.
 These quick commands can take a web search that is usually multiple clicks and condense it into a single search. This is very helpful for information you need repeatedly.
+
+## 15、谷歌有快捷键
+许多的命令你输入之后就给快速的获得结果。
+
+像上面的做数学运算的那个例子一样，谷歌可以快速地在搜索结果的顶部显示出你需要的信息。这可以节省时间和精力，你不必去点击一堆讨厌的链接。
+
+下面是一些你可以在谷歌使用的命令的例子：
+
+* Weather __\*zip code\*__ – 这将会显示出你给出的邮编的天气预报。你也可以使用城镇来代替邮编，但如果这个城市有很多个邮编，这样做不会太准确。
+* __What is \*celebrity name\* Bacon Number__ – 这是非常有趣的玩法，它会告诉你任何给定的名人和著名演员Kevin Bacon之间有多少联系。非常流行的笑话，Six Degrees of Kevin Bacon,说的是没有一个演员和Kevin Bacon之间的联系是超过6个人的。Mark Zuckerberg的贝肯数是3.
+* __The math example__ 写在上面的也是其中一个
+* __What is the definition of \*word\* or Define: \*word\*__ – 这个技巧会显示出一个单词的定义。
+* __Time \*place\*__ – 将会显示任何你输入的地点的时间。
+* 你可以在谷歌里__输入股票代码查看任何股票__。如果你搜索GOOG，将会返回谷歌的股票价格。
+这些快捷命令能把通常是多次点击的网页搜索缩减成为单词搜索。
