@@ -313,5 +313,5 @@ These quick commands can take a web search that is usually multiple clicks and c
 * __The math example__ 写在上面的也是其中一个
 * __What is the definition of \*word\* or Define: \*word\*__ – 这个技巧会显示出一个单词的定义。
 * __Time \*place\*__ – 将会显示任何你输入的地点的时间。
-* 你可以在谷歌里__输入股票代码查看任何股票__。如果你搜索GOOG，将会返回谷歌的股票价格。
+* 你可以在谷歌里**输入股票代码查看任何股票**。如果你搜索GOOG，将会返回谷歌的股票价格。
 这些快捷命令能把通常是多次点击的网页搜索缩减成为单词搜索。
