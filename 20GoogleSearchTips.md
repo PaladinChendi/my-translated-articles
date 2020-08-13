@@ -301,7 +301,7 @@ Here are a few examples of some commands you can enter into Google:
 * You can __check any stock by typing its ticker name__ into Google. If you search for GOOG, it will check the stock prices for Google.
 These quick commands can take a web search that is usually multiple clicks and condense it into a single search. This is very helpful for information you need repeatedly.
 
-## 15、谷歌有快捷键
+## 15、谷歌快捷键
 许多的命令你输入之后就给快速的获得结果。
 
 像上面的做数学运算的那个例子一样，谷歌可以快速地在搜索结果的顶部显示出你需要的信息。这可以节省时间和精力，你不必去点击一堆讨厌的链接。
@@ -315,3 +315,25 @@ These quick commands can take a web search that is usually multiple clicks and c
 * __Time \*place\*__ – 将会显示任何你输入的地点的时间。
 * 你可以在谷歌里**输入股票代码查看任何股票**。如果你搜索GOOG，将会返回谷歌的股票价格。
 这些快捷命令能把通常是多次点击的网页搜索缩减成为单词搜索。
+
+## 16. Spelling doesn’t necessarily matter
+Google search has gotten a lot smarter over the years. These days, you don’t even need to spell words correctly.
+
+As long as it’s pretty close, Google can usually figure out what it means. Here are some examples:
+
+* If you search “Nver Gna Gve Yo Up” Google will automatically assume you mean to search for “Never Gonna Give You Up.” If by chance your misspelling was intentional, Google gives you the option to search for the misspelled term instead.
+
+This trick is great if you happen to forget how to spell something or are not altogether sure how something is spelled.
+
+It can also be helpful when searching for obscure words. This applies to capitalization and grammar as well.
+
+## 16、拼写不太重要
+谷歌这些年已经变得更加智能。如今，你不需要正确的拼写单词了。
+
+只要相当接近，谷歌通常就能猜出他的意思。例子如下：
+
+* 如果你搜索“Nver Gna Gve Yo Up”，谷歌将自动假定你的意思是搜索“Never Gonna Give You Up.” 如果恰好你的拼写错误是故意的，谷歌会让你选择是否使用拼错的单词来搜索。
+
+在你突然忘了某个单词怎么拼，或者完全不知道怎么拼的时候，这个技巧是非常棒的。
+
+当你搜索复杂的单词的时候它也非常有用。它也适用于大写和语法。
