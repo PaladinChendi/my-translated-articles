@@ -357,3 +357,20 @@ There really isn’t a good specific example for this one. If you search for som
 * 然而你真正的意思可能是“排查Ubuntu的驱动程序问题“
 
 这不算是一个很好的具体的例子。（但是）如果你搜索某一件事又找不到答案，试着使用不同的单词来问同样的问题，看看是否对于结果有帮助。
+
+## 18. Find a specific file
+An often forgotten feature of Google search is the ability to search for a specific file or file type. This can be infinitely useful if you need a specific PDF or PowerPoint file that you previously viewed or need to use for another project. The syntax is quite simple:
+
+* \*Search term here\* filetype:pdf
+In the above example, you simply replace the search term with whatever you’re searching for. Then use the filetype command and enter the extension of any file type you can think of.
+
+This can mostly be useful for scholarly purposes, but business presentations and other assorted presentations can benefit from this kind of search as well.
+
+## 18、查找指定的文件
+谷歌一个经常被遗忘的功能是能够搜索一个指定的文件或者文件格式。这个会非常有用，如果你需要一个你以前看过的pdf或ppt文件，或者需要使用到另外一个项目中。方法非常简单：
+
+* \*这里输入搜索内容\* filetype:pdf
+
+在上面的例子中，你简单地把文本替换成任何你想搜索的内容。然后使用filetype命令，并输入任何你能想到的文件扩展名。
+
+这个对于学术目的搜索最有用，但是商业报告或者其他各类报告也会从这个技巧里受益。
