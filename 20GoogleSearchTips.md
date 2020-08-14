@@ -345,6 +345,7 @@ If you have trouble finding what you’re searching for, keep in mind that peopl
 
 * You may search “How to install drivers in Ubuntu?”
 * When you really mean “Troubleshoot driver problems Ubuntu.”
+
 There really isn’t a good specific example for this one. If you search for something and you can’t find an answer, try asking the same question using different words and see if that helps the results.
 
 ## 17、使用描述性的词
@@ -355,4 +356,4 @@ There really isn’t a good specific example for this one. If you search for som
 * 你会搜索“在Ubuntu（一个linux操作系统）里如何加载驱动？“
 * 然而你真正的意思可能是“排查Ubuntu的驱动程序问题“
 
-这不算是一个很好的具体的例子。但如果你搜索某事但是你找不到答案，试着使用不同的单词来问同样的问题，看看是否对于结果有帮助。
+这不算是一个很好的具体的例子。（但是）如果你搜索某一件事又找不到答案，试着使用不同的单词来问同样的问题，看看是否对于结果有帮助。
