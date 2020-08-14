@@ -337,3 +337,22 @@ It can also be helpful when searching for obscure words. This applies to capital
 在你突然忘了某个单词怎么拼，或者完全不知道怎么拼的时候，这个技巧是非常棒的。
 
 当你搜索复杂的单词的时候它也非常有用。它也适用于大写和语法。
+
+## 17. Use descriptive words
+Pretty much everything can be described in multiple ways. Take our namesake, the “life hack.” The terminology “hack” refers to a computer programmer breaking security on a network or system. However, when used in conjunction with the word “life”, it alters the meaning to tips and tricks people can use to improve their lives.
+
+If you have trouble finding what you’re searching for, keep in mind that people may search or define what you need in a different way than you do.
+
+* You may search “How to install drivers in Ubuntu?”
+* When you really mean “Troubleshoot driver problems Ubuntu.”
+There really isn’t a good specific example for this one. If you search for something and you can’t find an answer, try asking the same question using different words and see if that helps the results.
+
+## 17、使用描述性的词
+每件事几乎都可以用不同的方式来描述。那我们网站的名字“生活黑客”来说，“黑客”这个术语是指那些破坏一个网络或者系统的安全的计算机程序员。然而，当和单词“生活”合起来使用的时候，这个词意义就转变成了人们可以用来改善他们生活的窍门和技巧。
+
+如果你找不到你要搜索的内容，请记住人们会用和你不同的方式来搜索和定义你想要的东西。
+
+* 你会搜索“在Ubuntu（一个linux操作系统）里如何加载驱动？“
+* 然而你真正的意思可能是“排查Ubuntu的驱动程序问题“
+
+这不算是一个很好的具体的例子。但如果你搜索某事但是你找不到答案，试着使用不同的单词来问同样的问题，看看是否对于结果有帮助。
