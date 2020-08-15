@@ -374,3 +374,24 @@ This can mostly be useful for scholarly purposes, but business presentations and
 在上面的例子中，你简单地把文本替换成任何你想搜索的内容。然后使用filetype命令，并输入任何你能想到的文件扩展名。
 
 这个对于学术目的搜索最有用，但是商业报告或者其他各类报告也会从这个技巧里受益。
+
+## 19. Money and unit conversions
+Google search can quickly and accurately convert both measurement units and currency value. There are a variety of uses for this, like checking to see the conversion rate between two currencies.
+
+If you happen to be a math student, you can use it to convert from feet to meters or from ounces to liters. Here’s how to do it:
+
+* miles to km – This will convert miles to kilometers. You can put numbers in front to convert a certain number. Like “10 miles to km” will show you how many kilometers are in 10 miles.
+* USD to British Pound Sterling – This will convert a US dollar to British pounds. Like the measurements above, you can add numbers to find exact conversions for a certain amount of money.
+
+It’s true that this tip is geared toward math students and international business people. However, you’d be surprised how often these tips are used by regular people.
+
+## 19、货币和单位转换
+谷歌可以快速和精确的转换计量单位和货币价值。这有很多用途，比如像查看两种货币之间的汇率。
+
+如果你碰巧是数学专业学生，你可以使用这个技巧把英尺转换成米，或者从盎司转换成升。你可以像下面这么做：
+
+* 英里转换成千米 - 这个会把英里转换成千米（公里）。你可以在前面添加一个数字然后转换成目标数字。比如“10 miles to km“将会显示10英里是多少千米。
+
+* 美元兑换成英镑 - 这个会把美元兑换成英镑。像相面的计量单位转换一样，你可以加上一个数字精确的转换成另外一种确定金额的货币。
+
+的确，这个技巧适用于数学专业学生和国际业务人士。然而，你会非常惊讶这些技巧普通人也会使用的非常频繁。
