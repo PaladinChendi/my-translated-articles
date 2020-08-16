@@ -395,3 +395,27 @@ It’s true that this tip is geared toward math students and international busin
 * 美元兑换成英镑 - 这个会把美元兑换成英镑。像相面的计量单位转换一样，你可以加上一个数字精确的转换成另外一种确定金额的货币。
 
 的确，这个技巧适用于数学专业学生和国际业务人士。然而，你会非常惊讶这些技巧普通人也会使用的非常频繁。
+
+## 20. Track your packages
+Our last trick is to use Google search to find out where your packages are. You can enter any UPS, USPS, or Fedex tracking number directly into the Google search bar, and it’ll show you the tracking information about your package.
+
+This is much easier than going to the specific sites, waiting for them to load, then searching for your packages there.
+
+No examples are really needed for this one. Just type your tracking number in and see where your package is.
+
+## 20、跟踪你的快递包裹
+我们最后一个技巧是使用谷歌来查找你的快递在哪。你可以直接在谷歌搜索框输入UPS，USPS，或者Fedex的物流单号，谷歌就会显示出你的快递物流信息。
+
+这比你去指定的物流站点等待他们载入（电脑程序）搜索你的快递要容易的多。
+
+不需要任何实例，只需要输入你的物流单号，然后查看你的快递在哪里。
+
+## Final thoughts
+Google search is a very powerful search tool. Using the tips outlined above, you can find anything and everything you could ever need on the World Wide Web.
+
+Whether it’s avoiding Wikipedia for a school essay project, finding the latest stock prices, or even finding song lyrics, there is a way to make Google search work for you.
+
+## 最后的一点思考
+谷歌是一个非常给力的搜索工具。使用上面的这些技巧，你可以在网上找到任何你需要的东西。
+
+不论是避免在学校论文里使用维基百科，还是查找最近的股票价格，甚至是查找歌词，都有办法让谷歌来替你干活。
