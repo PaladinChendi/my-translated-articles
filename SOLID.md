@@ -8,13 +8,23 @@ In object-oriented computer programming, SOLID is a mnemonic acronym for five de
 在面向对象软件编程中，SOLID是五个软件设计原则的助记缩写，旨在作出更难加易懂的，弹性的和可维护的软件设计。它和GRASP软件设计原则没有关系。这些原则是被美国软件工程师兼导师的Robert C. Martin提出的许多原则的一个集合。虽然他们被应用在一些面向对象设计中，SOLID原则也可以成为一些方法论的核心理念，比如想是敏捷开发和自适应软件开发。SOLID原则的理论是Martin在他的2000年的论文《设计原则与设计模式》中提出的，不过SOLID缩写是被Michael Feathers后来提出的。
 
 ### Concepts
-#### Single-responsibility principle[6]
+#### Single-responsibility principle
 A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
-#### Open–closed principle[7]
+#### Open–closed principle
 "Software entities ... should be open for extension, but closed for modification."
-#### Liskov substitution principle[8]
+#### Liskov substitution principle
 "Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program." See also design by contract.
-#### Interface segregation principle[9]
-"Many client-specific interfaces are better than one general-purpose interface."[4]
-#### Dependency inversion principle[10]
-One should "depend upon abstractions, [not] concretions."[4]
+#### Interface segregation principle
+"Many client-specific interfaces are better than one general-purpose interface."
+#### Dependency inversion principle
+One should "depend upon abstractions, [not] concretions."
+
+### 概念
+#### 单一职责原则
+一个类应该仅有一个单一的职责，更确切的说，仅对软件规范的一部分更改才能影响类的规范。
+#### 打开-关闭原则
+软件实体应该对扩展开放，对修改关闭。
+#### 里斯科夫替换原则
+“程序里的对象应该能够被其他子类的实例替换，而不改变程序的正确性“。在契约式编程里也可以看到。（design by contract可以拓展学习一下）
+#### 接口隔离原则
+“
