@@ -10,4 +10,6 @@ Example: After Will said that we should put more money into health and education
 ### 稻草人
 你歪曲某人的论点使其更容易被攻击。
 
-通过夸大，歪曲，或者完全地捏造某人的论点，
+通过夸大，歪曲，或者完全地捏造某人的论点，这会更简单的合理表明你的立场，但是这种不诚实会破坏诚实理性的讨论。
+
+例子：在Will说完我们应该把更多钱用在健康和教育领域之后，Warren回答说他非常惊讶Will如此讨厌我们的国家，以至于要削减军费开支来降低防御力。
