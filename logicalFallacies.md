@@ -17,11 +17,14 @@ Example: After Will said that we should put more money into health and education
 
 ### false cause
 You presumed that a real or perceived relationship between things means that one is the cause of the other.
+
 Many people confuse correlation (things happening together or in sequence) for causation (that one thing actually causes the other to happen). Sometimes correlation is coincidental, or it may be attributable to a common cause.
 
 Example: Pointing to a fancy chart, Roger shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax.
 
 ### 错误归因
 你假设两件事情之间有一个真的或者观察到的关系，就意味着一件事情是另一件事情的原因。
+
 许多人混淆了相关性（两件事同时或者前后发生）和因果性（一件事导致了另一件事发生）。有时候相关性时候一个巧合，或者可能归因于一个共同的原因。
-例子：
+
+例子：Roger指向一个复杂的图表，图表显示了过去几个世纪温度在上升，与此同时海盗的数量在下降。因此海盗让世界变冷，全球变暖是一个骗局。
