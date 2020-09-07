@@ -1,5 +1,6 @@
 # thou shalt not commit logical fallacies
-# 你（thou 古时候的叫法）不应该犯逻辑谬误
+# 你不应该犯逻辑谬误
+注：thou 古时候的叫法
 ### strawman
 You misrepresented someone's argument to make it easier to attack.
 
@@ -21,3 +22,6 @@ Many people confuse correlation (things happening together or in sequence) for c
 Example: Pointing to a fancy chart, Roger shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax.
 
 ### 错误归因
+你假设两件事情之间有一个真的或者观察到的关系，就意味着一件事情是另一件事情的原因。
+许多人混淆了相关性（两件事同时或者前后发生）和因果性（一件事导致了另一件事发生）。有时候相关性时候一个巧合，或者可能归因于一个共同的原因。
+例子：
